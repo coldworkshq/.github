@@ -21,7 +21,7 @@ expensive, variable way to *run* one forever.
 ## Repositories
 
 **[doug](https://github.com/coldworkshq/doug)** — risk-routed code review.
-Most pull requests don't need a human; Doug works out which ones do. Three
+Most pull requests don't need a human; Coldworks works out which ones do. Three
 rules: route, never block. Never write code. Publish the miss rate.
 
 Everything else is private or not built yet.
